@@ -1,5 +1,5 @@
-import illus from './assets/images/illustration-article.svg';
-import avatar from './assets/images/image-avatar.webp';
+import illus from "./assets/images/illustration-article.svg";
+import avatar from "./assets/images/image-avatar.webp";
 
 function App() {
   return (
@@ -16,8 +16,8 @@ function App() {
             HTML & CSS foundations
           </a>
           <p className="desc">
-            These languages are the backbone of every website, defining structure, content, and
-            presentation.
+            These languages are the backbone of every website, defining
+            structure, content, and presentation.
           </p>
         </div>
         <div className="author">
@@ -25,11 +25,11 @@ function App() {
           <p className="name">Greg Hooper</p>
         </div>
         <div className="attribution">
-          Challenge by{' '}
+          Challenge by{" "}
           <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
             Frontend Mentor
           </a>
-          . Coded by{' '}
+          . Coded by{" "}
           <a href="https://github.com/vietan0" target="_blank">
             Việt An
           </a>
